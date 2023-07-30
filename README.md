@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rw7ky1op8oafsbqp?svg=true)](https://ci.appveyor.com/project/osyualex/patternstask2)
